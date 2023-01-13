@@ -31,3 +31,10 @@ Si desea ver una demo de la aplicación web, siga la siguientes instrucciones:
 3. Importe el archivo [aseguradora.sql](.aseguradora/asegurado.sql) en phpmyadmin
 4. Ingrese a http://localhost/aseguradora/inicio.php 
 5. Empiece a realizar operaciones CRUD usando la aplicación web y vea como interactúa con la base de datos!
+
+
+### Íconos - Referencias
+* <a href="https://www.flaticon.com/free-icons/database" title="database icons">Database icons created by Mohamed Mbarki - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/meeting" title="meeting icons">Meeting icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/notepad" title="notepad icons">Notepad icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.es/iconos-gratis/aplicacion" title="aplicación iconos">Aplicación iconos creados por flatart_icons - Flaticon</a>
