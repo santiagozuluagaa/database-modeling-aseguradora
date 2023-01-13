@@ -1,11 +1,14 @@
-# database-modeling-aseguradora
+# Modelación de base de datos para aseguradora
 
 ![](description/description.png)
 
 
 ## Modelo verbal
 
-Se establece un [modelo verbal](modelo-verbal.pdf) que servirá como lógica de negocio. A partir del modelo verbal se construye el diagrama ER que satisfaga los hechos del modelo verbal. 
+Se establece un [modelo verbal](modelo-verbal.pdf) que servirá como lógica de negocio. A partir del modelo verbal se construye el diagrama ER que satisfaga los hechos del modelo verbal. Así comienza el modelo verbal:
+
+> Una compañía se dedica a vender seguros de autos; para lo cual necesita una base de datos con el objetivo de registrar todo tipo de características y operaciones externas e internas relacionadas con la venta de seguros, de la siguiente manera:  La empresa tiene 3 tipos de empleados que pueden ser: analistas, vendedores o abogados; se debe tener en cuenta que cada empleado solo puede ejercer su cargo, además la empresa no cuenta con empleados rasos... [continua]
+
 
 ## Modelo Entidad-Relación
 
