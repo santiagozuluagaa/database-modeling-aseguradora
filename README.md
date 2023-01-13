@@ -12,7 +12,9 @@ Se establece un [modelo verbal](modelo-verbal.pdf) que servirá como lógica de 
 
 ## Modelo Entidad-Relación
 
-Construcción del [diagrama para el modelo de entidad relación](diagrama-modeloEntidadRelacion.pdf). Adicionalmente, se incluye una serie de [Notas al modelo](notas-modelo.pdf) como insumo a la hora de realizar la implementación de la base de datos.
+Construcción del [diagrama para el modelo de entidad relación](diagrama-modeloEntidadRelacion.pdf). Adicionalmente, se incluye una serie de [Notas al modelo](notas-modelo.pdf) como insumo a la hora de realizar la implementación de la base de datos. **Se muestra una parte del modelo ER**. [(veálo completo aquí)](diagrama-modeloEntidadRelacion.pdf)
+
+![Parte del modelo Entidad-Relación](description/modelo-er-extracto.PNG)
 
 ## Creación de tablas en SQL
 
